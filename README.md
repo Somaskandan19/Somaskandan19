@@ -70,8 +70,7 @@ I love solving problems, building websites, and working on real-world applicatio
 ### 🧩 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SomasKandan_S
-?theme=dark&font=Baloo+Bhaijaan" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/SomasKandan_S?theme=dark&font=Baloo+Bhaijaan" alt="LeetCode Stats"/>
 </p>
 
 ---
